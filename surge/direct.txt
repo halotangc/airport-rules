@@ -103,7 +103,6 @@ cnappinstall.googleadapis.com
 communities.apple.com
 configuration.apple.com
 configuration.apple.com.akadns.net
-connectivitycheck.gstatic.com
 content.googleadapis.com
 crashlyticsreports-pa.googleapis.com
 crl-lb.apple.com.akadns.net
