@@ -59,7 +59,6 @@ cdn-cn1.apple-mapkit.com
 cdn-cn2.apple-mapkit.com
 cdn-cn3.apple-mapkit.com
 cdn-cn4.apple-mapkit.com
-cdn.ampproject.org
 cdn.apple-mapkit.com
 cdn.globalsigncdn.com.cdn.cloudflare.net
 cdn.marketplaceimages.windowsphone.com
