@@ -111,7 +111,6 @@ crl.globalsign.net
 crl.kaspersky.com
 crl.pki.goog
 crls.pki.goog
-csi.gstatic.com
 cstat.apple.com
 cstat.cdn-apple.com
 ctldl.windowsupdate.com
@@ -171,17 +170,11 @@ fcs.dell.com
 fides-pol.apple.com
 firebase-settings.crashlytics.com
 fontfiles.googleapis.com
-fonts.googleapis.com
-fonts.gstatic.com
 fs.microsoft.com
 fta.dell.com
 ftaapj.dell.com
 ftaemea.dell.com
 ftasitapj.dell.com
-g0.gstatic.com
-g1.gstatic.com
-g2.gstatic.com
-g3.gstatic.com
 gbxgateway-dev.dell.com
 gbxgateway.dell.com
 geetest.datasink.sensorsdata.cn
@@ -461,9 +454,6 @@ snpi.dell.com
 software.download.prss.microsoft.com
 sp.itunes.apple.com
 ss.bjmu.edu.cn
-ssl-google-analytics.l.google.com
-ssl.gstatic.com
-sslredirect.corp.google.com
 staging-controlbe.floonet.goog
 staging-databe.floonet.goog
 staging.databe.floonet.goog
