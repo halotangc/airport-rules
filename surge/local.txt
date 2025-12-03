@@ -1,1 +1,2 @@
-*.chatgpt.com 日本
+DOMAIN-SUFFIX,chatgpt.com,日本
+DOMAIN-SUFFIX,chatgpt.com,日本
